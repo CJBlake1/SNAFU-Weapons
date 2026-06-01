@@ -1,0 +1,87 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SNAFU Shotguns",
+  "Icon": "Gun",
+  "Color": "1CE247FF",
+  "InitStockPercent": 100.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "AA12_Gun",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SN_Auto_Shotgun",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SN_M870",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Trenchgun",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Spas12_Gun",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "VR80_Gun",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GCGN_BenelliM4",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

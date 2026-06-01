@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!--
+  Suppressors
+  Muzzels
+  
+ Suppressors-->
+    <type name="SNAFU_Agram_Suppressor_Black">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="GCGN_M1Garand_Supp">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="Snafu_ScarH_SIL_Black">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="Snafu_ScarH_SIL_Tan">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_408_Suppressor_T">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_LNormalized_Suppressor_Black">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_LNormalized_Suppressor_Green">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_Normalized_Suppressor_Black">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_Normalized_Suppressor_Green">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_LStandardized_Suppressor_Black">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_LStandardized_Suppressor_Green">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_MPX_Suppressor_Black">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_SPMOD">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_SR25_Supp">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_Standardized_Suppressor_Black">
+        <nominal>0</nominal>
+        <restock>0</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="SNAFU_Standardized_Suppressor_Green">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFUAR15_SPR_SIL">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFUAR15_SPR_SQSIL">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFUGevar_Suppressor_Green">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFUGevar_Suppressor_Tan">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFUKivaari_338_Supp">
+        <nominal>0</nominal>
+        <restock>0</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="SR3_Vikhr_Supp">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_SR3Vikhr_Supp">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_50bmg_Suppressor_B">
+        <nominal>0</nominal>
+        <restock>0</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="SNAFU_50bmg_Suppressor_M">
+        <nominal>0</nominal>
+        <restock>0</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="SNAFU_50bmg_Suppressor_S">
+        <nominal>0</nominal>
+        <restock>0</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_50bmg_Suppressor_U">
+        <nominal>0</nominal>
+        <restock>0</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_50bmg_Suppressor_W">
+        <nominal>0</nominal>
+        <restock>0</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+<!--Muzzels-->
+    <type name="SNAFU_AK19Muzzel">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_AK308Muzzel">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_HeramuzzelF">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_MK47Muzzel">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="SNAFU_MuzzelFF">
+        <nominal>0</nominal>
+        <restock>1800</restock>
+        <lifetime>38880000</lifetime>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="1" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+</types>

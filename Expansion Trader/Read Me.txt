@@ -1,0 +1,34 @@
+Add the following to your whatever your weapon attachments json file you use in your traders folder:
+
+        "SNAFU_AMMO:0",
+        "SNAFU_Bipods:1",
+        "SNAFU_Chokes:1",
+        "SNAFU_Grips:1",
+        "SNAFU_HanguardsRails:1",
+        "SNAFU_Mags:1",
+        "SNAFU_Misc:1",
+        "SNAFU_Mounts:1",
+        "SNAFU_Scopes:1",
+	"SNAFU_Stocks:1",
+	"SNAFU_Suppressors:1",
+
+Add the following to your whatever your weapon json file you use in your traders folder:	
+	
+        "SNAFU_AMMO:3",
+	"SNAFU_Bipods:3",
+        "SNAFU_Chokes:3",
+        "SNAFU_Grips:3",
+        "SNAFU_HanguardsRails:3",
+        "SNAFU_Mags:3",
+        "SNAFU_Misc:3",
+        "SNAFU_Mounts:3",
+        "SNAFU_Scopes:3",
+	"SNAFU_Stocks:3",
+	"SNAFU_Suppressors:3",
+
+**These are json files so mind your commas**
+		
+Players will have the option to customize each weapon by adding the applicable mags and attachments
+when purchasing a weapon.
+
+Adjust the pricing to your liking. 

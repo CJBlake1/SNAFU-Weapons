@@ -1,0 +1,23 @@
+You will need to edit the values of the usage, category, value, nominals and mins
+of all the SNAFU types to your liking and validate your edited files.
+
+Then
+
+Add the following below to your cfgeconomycore.xml under </defaults>:
+
+    <ce folder="SNAFU">		
+		<file name="AMMO.xml" type="types" />
+		<file name="AssaultRifles.xml" type="types" />
+                <file name="Atachments.xml" type="types" />
+		<file name="MachineGuns.xml" type="types" />
+		<file name="Mags.xml" type="types" />
+		<file name="Pistols.xml" type="types" />	
+		<file name="Rifles.xml" type="types" />
+		<file name="Scopes.xml" type="types" />
+		<file name="Shotguns.xml" type="types" />
+		<file name="Snipers.xml" type="types" />
+		<file name="Suppressors.xml" type="types" />
+	</ce>
+
+Finally, add the SNAFU folder to your map MP Mission folder.
+
