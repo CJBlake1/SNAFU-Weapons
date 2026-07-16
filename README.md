@@ -7,4 +7,4 @@ Workshop mod. I did not look at any of the PBOs.
 
 Each folder has its own Read Me file for instructions
 
-All credit goes to the great SNAFU team for creating and maintaining this great mod.
+All credit goes to Chimere and the great SNAFU team for creating and maintaining this great mod.
